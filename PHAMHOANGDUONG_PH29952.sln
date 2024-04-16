@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppData", "AppData\AppData.csproj", "{F07E7E50-78A1-475D-823E-280BF4106428}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppData", "AppData\AppData.csproj", "{F07E7E50-78A1-475D-823E-280BF4106428}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppAPI", "AppAPI\AppAPI.csproj", "{7E21BA56-B15A-4CAB-AAD7-6D34EED31ACA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAPI", "AppAPI\AppAPI.csproj", "{7E21BA56-B15A-4CAB-AAD7-6D34EED31ACA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppView", "AppView\AppView.csproj", "{BE1850F9-F259-4F1E-8E47-77A9449E4192}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppView", "AppView\AppView.csproj", "{BE1850F9-F259-4F1E-8E47-77A9449E4192}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,15 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Pages\SinhVienPage\**" />
+    <Content Remove="Pages\SinhVienPage\**" />
+    <EmbeddedResource Remove="Pages\SinhVienPage\**" />
+    <None Remove="Pages\SinhVienPage\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AppData\AppData.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Pages\SinhVienPage\" />
   </ItemGroup>
 
 </Project>
